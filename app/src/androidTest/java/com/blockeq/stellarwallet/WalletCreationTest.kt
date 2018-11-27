@@ -52,4 +52,6 @@ class WalletCreationTest {
 
         testCreateWalletOption12Words()
     }
+
+
 }
